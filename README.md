@@ -1,2 +1,3 @@
 # code_python
-just intro
+#shows the basic topics in python 
+#strings, lists, functions, and an introduction to object oriented programming.
